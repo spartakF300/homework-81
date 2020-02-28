@@ -1,0 +1,7 @@
+.wrap {
+   width: 500px;
+    min-height: 300px;
+    background: darkgrey;
+    margin: 100px auto;
+    padding: 20px;
+}
